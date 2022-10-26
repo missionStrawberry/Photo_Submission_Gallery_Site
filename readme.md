@@ -1,4 +1,4 @@
-### Website written in HTML, CSS, JavaScript, and PHP to upload photos, modify and approve submissions, and photos in a gallery layout.
+### Website written in HTML, CSS, JavaScript, and PHP to upload photos, modify and approve submissions, and view photos in a gallery layout.
 
 By Anna Myllyniemi and Trista Dhami. 2020
 
