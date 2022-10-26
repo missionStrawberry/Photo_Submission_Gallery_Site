@@ -1,6 +1,3 @@
-Link to homepage:
-http://142.31.53.141/~tristanna/anna_trista_FINAL_VERSION/index.php
-
 header.inc
  - HTML header for all .inc files
  - links to form.js, bootstrap.min.css, jquery-3.4.1.min.js, 
