@@ -1,8 +1,8 @@
 ### Website written in HTML, CSS, JavaScript, and PHP to upload photos, modify and approve submissions, and view photos in a gallery layout.
 
-By Anna Myllyniemi and Trista Dhami. 2020
+By Anna Myllyniemi and Trista Dhami, 2020
 
-Click [here](https://github.com/missionStrawberry/Photo_Submission_Gallery_Site/tree/main/photos_of_website) to view photos of the completed website
+Click [here](https://github.com/missionStrawberry/Photo_Submission_Gallery_Site/tree/main/photos_of_website) to view photos of the completed website.
 
 header.inc
  - HTML header for all .inc files
