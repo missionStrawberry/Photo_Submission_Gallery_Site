@@ -2,6 +2,8 @@
 
 By Anna Myllyniemi and Trista Dhami. 2020
 
+![photo of gallery view]()
+
 header.inc
  - HTML header for all .inc files
  - links to form.js, bootstrap.min.css, jquery-3.4.1.min.js, 
