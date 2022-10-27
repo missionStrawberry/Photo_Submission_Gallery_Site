@@ -73,4 +73,4 @@ form.js
  - makes ajax calls to load, delete, and change JSON
  - Makes ajax calls to download one or all images
  
-*Previous/next arrows and x button in the lightbox were all taken from my (Trista's) grade 9 website, and are public domain.
+*Previous/next arrows and x button in the lightbox were all taken from Trista's grade 9 website, and are public domain.
