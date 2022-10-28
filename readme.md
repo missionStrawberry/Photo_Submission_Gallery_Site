@@ -39,7 +39,7 @@ style.css
 
 index.php
  - public gallery (home page)
- - handles form input.error checking, file upload, & thumbnail generation
+ - handles form input, error checking, file upload, & thumbnail generation
  - handles differentiating editors and non-editors (with session variables)
  - echos thumbnails into HTML (with the image's description as it's alt attribute)
  - handles changing/displaying different pages
